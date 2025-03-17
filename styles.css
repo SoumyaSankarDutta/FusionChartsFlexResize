@@ -8,6 +8,7 @@
     width: 100%;
   }
   .popup {
+    resize: both;
      display: flex;
     flex-direction: row;
     height: 100vh;
