@@ -19,7 +19,7 @@
     border: 1px solid #d3d3d3;
     text-align: center;
     min-height: 150px;
-    max-height: 600px;
+    max-height: 500px;
      position: absolute;
     /*resize: both; !*enable this to css resize*! */
     overflow: hidden;
